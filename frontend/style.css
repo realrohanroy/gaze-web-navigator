@@ -1,0 +1,9 @@
+#gaze-cursor {
+  width: 15px;
+  height: 15px;
+  background: red;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+}
