@@ -216,7 +216,4 @@ A short demo video (`demo.mp4`) demonstrates:
 
 ---
 
-## 🧾 Resume Description (Ready to Use)
 
-**Gaze-Based Web Navigator**  
-Built a real-time webcam-based eye-tracking system enabling hands-free web navigation using gaze input. Implemented iris-based gaze estimation with MediaPipe FaceMesh, user-specific calibration via linear regression, and jitter reduction using exponential smoothing. Integrated a Python backend with a browser-based UI using WebSockets to control a gaze-driven cursor in real time. Designed the system with accessibility and resolution independence in mind.
